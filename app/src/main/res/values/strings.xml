@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Artikel</string>
+
+    <string name="judul_ujung_kulon">Taman Nasional Ujung Kulon</string>
+    <string name="artikel2">     Tentang\n\n
+Wilayah Semenanjung Ujung Kulon merupakan habitat Badak Jawa (Rhinoceros sondaicus), sehingga dalam pengelolaan wisata alam untuk lokasi ini sangat terbatas sekali. Hal ini dikarenakan agar tidak mengganggu habitat Badak Jawa. Luas wilayah Semenanjung Ujung Kulon ini  ± 38.000 Ha. Kegiatan wisata alam yang dapat di lakukan di lokasi ini antara lain trekking, berkemah dan wildlife viewing.
+
+Di Semenanjung Ujung Kulon terdapat jalur tetap yang dapat digunakan untuk trekking.
+    </string>
+    <string name="artikel3">Fasilitas lainnya adalah Pos Jaga yang terdapat dibeberapa titik seperti Karang Ranjang, Cibunar, dan Cidaon. Selain trekking, kegiatan wisata lainnya yang dapat dilakukan adalah wildlife viewing di Padang penggembalaan Cidaon dan Cigenter, berkemah di Tanjung Layar, dan wisata budaya di Goa Sang Hyang Sirah.
+        \n\n
+    open this link:
+    \n\n
+    http://www.ujungkulon.org/</string>
+
+</resources>
